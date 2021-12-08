@@ -1,6 +1,8 @@
 # Josh Ting
 
-Leveraging my background in data science and clean energy technologies to create solutions in sustainability and climate change.
+## Climate and Sustainability Data Scientist
+
+Leveraging my background in data science, clean energy engineering, and machine learning to tackle climate change.
 
 Feel free to learn more about me and my work at:
 * [Personal Website](https://joshting.com/)
