@@ -1,3 +1,5 @@
+![Image](https://joshtingcom.files.wordpress.com/2021/09/dscf8555-20.jpg?w=727&h=&zoom=2)
+
 # Josh Ting
 
 ## Climate and Sustainability Data Scientist
