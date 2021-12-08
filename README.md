@@ -1,4 +1,4 @@
-![Image](https://joshtingcom.files.wordpress.com/2021/09/dscf8555-20.jpg?w=727&h=&zoom=2)
+![Image](https://joshtingcom.files.wordpress.com/2021/12/dscf8555-2.jpg?w=1920&h=&zoom=2)
 
 # Josh Ting
 
