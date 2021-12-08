@@ -1,10 +1,6 @@
-# Josh Ting
+# Climate and Sustainability Data Scientist
 
-![Image](https://joshtingcom.files.wordpress.com/2021/12/dscf8555-2.jpg?w=1920&h=&zoom=2)
-
-## Climate and Sustainability Data Scientist
-
-Leveraging my background in data science, clean energy engineering, and machine learning to tackle climate change.
+### Leveraging my background in data science, clean energy engineering, and machine learning to drive solutions in climate and sustainability.
 
 Feel free to learn more about me and my work at:
 * [Personal Website](https://joshting.com/)
@@ -12,6 +8,7 @@ Feel free to learn more about me and my work at:
 * [Medium](http://joshting.medium.com/)
 * [Kaggle](https://www.kaggle.com/justjoshtings)
 
+![Image](https://joshtingcom.files.wordpress.com/2021/12/dscf8555-2.jpg?w=1920&h=&zoom=2)
 
 
 
