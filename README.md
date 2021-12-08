@@ -3,7 +3,7 @@
 
 ### Leveraging my background in data science, clean energy engineering, and machine learning to drive solutions in climate and sustainability.
 
-Specifically interested in reinforcement learning, computer vision, and autonomous electric vehicles.
+Specifically interested in reinforcement learning, computer vision, smart efficient homes, and autonomous electric vehicles.
 
 Feel free to learn more about me and my work at:
 * [Personal Website](https://joshting.com/)
