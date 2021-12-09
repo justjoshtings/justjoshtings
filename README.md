@@ -5,6 +5,7 @@
 
 Specifically interested in reinforcement learning, computer vision, smart efficient homes, and micro-grids/virtual power plants.
 
+Feel free to learn more about me and my work at my [personal website](https://joshting.com/).
 
 
 
