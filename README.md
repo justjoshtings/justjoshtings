@@ -1,7 +1,7 @@
 ![Image](https://joshtingcom.files.wordpress.com/2021/12/dscf8555-2.jpg?w=1920&h=&zoom=2)
 # Data Scientist and Data Engineer
 
-### Leveraging my background in data science, clean energy engineering, and machine learning to drive solutions in climate and sustainability.
+### Leveraging my background in tech, clean energy engineering, and machine learning/data science to drive solutions in climate and sustainability.
 
 Learn more about me and my work at my [personal website](https://joshting.com/).
 
